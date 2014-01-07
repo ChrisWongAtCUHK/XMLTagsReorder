@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cucs xml:space="preserve">
+	<student name="Chris Wong">
+		<sid>1234567890</sid>
+		<stream>web</stream>
+		<courses>
+			<course>CSCI1234</course>
+			<course>CSC21234</course>
+			<course>CSC31234</course>
+		</courses>
+	</student>
+	<student name="Uncle Chris">
+		<courses>
+			<course>CSCI1234</course>
+			<course>CSC21234</course>
+			<course>CSC41234</course>
+		</courses>
+		<sid>1234567891</sid>
+		<stream>security</stream>
+	</student>
+	<student name="Hello Chris">
+		<sid>1234567892</sid>
+		<stream>mobile</stream>
+		<courses>
+			<course>CSCI1234</course>
+			<course>CSC21234</course>
+			<course>CSC31234</course>
+		</courses>
+	</student>
+</cucs>
